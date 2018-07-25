@@ -1,2 +1,2 @@
-# clearmap_docker
-This repo containerizes Christoph Kirst's ClearMap
+# ClearMap Docker
+Containerizes Christoph Kirst's ClearMap
